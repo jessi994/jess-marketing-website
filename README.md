@@ -12,11 +12,17 @@ This project is a website for a marketing company named Horiseon. This project w
 * Application's CSS selectors and properties not consolidated and organized to follow semantic structure : **Added**
 * Application's CSS file not properly commented : **Added**
 
+### Horiseon webpage
+![Screenshot of Horiseon webpage](image.png)
+
 ### Link to deployed application
 Access the live application [here]()
-### Features
 
-### Badges
 
-### Horiseon webpage
+### Credits
 
+N/A
+
+### License
+
+Please refer to the LICENSE in the repo.
