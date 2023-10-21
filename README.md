@@ -16,7 +16,7 @@ This project is a website for a marketing company named Horiseon. This project w
 ![Screenshot of Horiseon webpage](image.png)
 
 ### Link to deployed application
-Access the live application [here]()
+Access the live application [here](https://jessi994.github.io/jess-marketing-website/)
 
 
 ### Credits
