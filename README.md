@@ -13,7 +13,7 @@ This project is a website for a marketing company named Horiseon. This project w
 * Application's CSS file not properly commented : **Added**
 
 ### Horiseon webpage
-![Screenshot of Horiseon webpage](image.png)
+![Screenshot of Horiseon webpage](images/image.png)
 
 ### Link to deployed application
 Access the live application [here](https://jessi994.github.io/jess-marketing-website/)
